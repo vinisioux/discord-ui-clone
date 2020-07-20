@@ -16,7 +16,7 @@
 
 </p>
 
-<strong>You can see the result in this link below:</strong>
+<strong>You can see the result in this link: </strong>
 [https://infallible-hoover-0c3685.netlify.app/](https://infallible-hoover-0c3685.netlify.app/)
 
   </p>
